@@ -1,0 +1,19 @@
+# 產出物（含受著作權保護的小說內容，請勿入庫）
+*.epub
+*.epub.part
+
+# 章節快取（網站正文內容）
+cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 編輯器 / 系統
+.vscode/
+.idea/
+.DS_Store
+*.swp
